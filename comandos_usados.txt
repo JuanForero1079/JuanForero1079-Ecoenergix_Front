@@ -1,0 +1,4 @@
+  1  yarn
+  2  yarn dev
+  3  history
+  4  history > comandos_usados.txt
